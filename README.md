@@ -1,3 +1,5 @@
+# See: ./notes/FINAL.ipynb
+
 ## Setup
 
 ### Setup a virtual environment (optional)
